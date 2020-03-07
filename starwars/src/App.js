@@ -26,7 +26,7 @@ const App = () => {
   })
   .catch(function (err) {
     console.log(err);
-  })}, []);
+  })},[]);
 
   return (
     <div className="App">
